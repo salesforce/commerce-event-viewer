@@ -1,0 +1,16 @@
+{
+    "name": "b2b-event-viewer-test-server",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "ISC",
+    "engines": {
+        "node": "13.x"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "type": "module",
+    "dependencies": {
+        "faye": "^1.2.4"
+    }
+}
